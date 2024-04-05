@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Malware techniques , Low-Level Things**
 
-- 📫 How to reach me **bunyaminuysalofficial@gmail.com**
+- 📫 How to reach me **bunyaminuysal07@gmail.com**
 
 - ⚡ Fun fact **I use Arch btw**
 
